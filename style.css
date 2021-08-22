@@ -267,7 +267,6 @@ img {
     align-items: center;
     text-align: center;
     margin: 0 2rem;
-    margin-top: 2em;
 }
 
 
@@ -349,6 +348,9 @@ img {
         height: 100vh;
         margin-bottom: 4rem;
         padding: 2rem;
+    }
+    .title {
+         margin-top: 5em;
     }
 }
 
